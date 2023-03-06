@@ -3,6 +3,11 @@ name = "lute"
 version = "0.0.0"
 edition = "2021"
 
+description = "audio api"
+homepage = "https://github.com/luoxiaozero/lute"
+repository = "https://github.com/luoxiaozero/lute"
+license = "MIT"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
